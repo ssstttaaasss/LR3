@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5PgPuPl4Af31wLJhoz4Dxu9m3ii6HB40wK+JLcNs+3CCWXuJ+ORJtvX0NUurd+DwL0WtahqAR7sK2cD5vSlYQ==",
+  "success": true,
+  "projectFilePath": "/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/Ex1.csproj",
+  "expectedPackageFiles": [
+    "/Users/stanislavpodolaka/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

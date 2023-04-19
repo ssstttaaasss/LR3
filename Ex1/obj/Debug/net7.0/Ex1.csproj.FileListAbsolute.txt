@@ -1,0 +1,17 @@
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/bin/Debug/net7.0/Ex1
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/bin/Debug/net7.0/Ex1.deps.json
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/bin/Debug/net7.0/Ex1.runtimeconfig.json
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/bin/Debug/net7.0/Ex1.dll
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/bin/Debug/net7.0/Ex1.pdb
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.csproj.AssemblyReference.cache
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.AssemblyInfoInputs.cache
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.AssemblyInfo.cs
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.csproj.CoreCompileInputs.cache
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.dll
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/refint/Ex1.dll
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.pdb
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.genruntimeconfig.cache
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/ref/Ex1.dll
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/stanislavpodolaka/RiderProjects/LR3/Ex1/obj/Debug/net7.0/Ex1.csproj.CopyComplete
