@@ -47,7 +47,10 @@ class DecimalCounter
             _value--;
         }
     }
+    
+    string filePath = "/Users/stanislavpodolaka/Desktop/КПІ/прога/workspace/myCounter.json";
 
+    
     public void SerializeToJson(string filePath)
     {
         string json = JsonConvert.SerializeObject(this);
